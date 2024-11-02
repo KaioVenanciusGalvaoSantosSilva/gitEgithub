@@ -5,5 +5,3 @@ https://aline-antunes.gitbook.io/formacao-fundamentos-github
 Alteração de branch main para branch versao_01
 
 
-
-v2 add
